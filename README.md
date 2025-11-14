@@ -3,7 +3,6 @@
 Welcome to my GitHub profile!
 
 ## 📑 Table of Contents
-
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Certifications](#certifications)
@@ -18,68 +17,74 @@ Welcome to my GitHub profile!
 ## About Me
 
 - 🏢 **Catalog Associate at Amazon**  
-  I work with Amazon’s catalog systems, processing, analyzing, and entering data to keep things accurate and up-to-date.
+  I work with Amazon’s catalog and internal systems, improving data accuracy through validation, automation, and scalable workflows.
 
-- 🐍 **Python Automation Enthusiast**  
-  I build Python applications for automation, data processing, and workflow optimization. I’m passionate about turning manual processes into efficient, reliable tools.
+- 🐍 **Python Automation Developer**  
+  I build Python tools for automation, data processing, and workflow optimization. I focus on turning repetitive processes into fast, reliable, user-friendly applications.
 
 - 🎮 **Aspiring Game Developer**  
-  In my free time, I’m creating my own game, applying concepts from the "Introduction to Game Design" course by Epic Games (Coursera).
+  I enjoy experimenting with Unreal Engine (Blueprints & C++) and am working on my own game project inspired by interactive narrative design.
 
 - 🌱 **Continuous Learner**  
-  I believe in lifelong learning and regularly expand my skills in programming, analytics, and creative technologies.
+  I consistently expand my knowledge across automation, analytics, QA, and game development.
+
+---
 
 ## Skills
 
-- Data processing & analysis
-- Python programming (automation, data tools, GUIs)
-- Workflow and catalog management
-- App testing & QA
-- Game development (Unreal Engine basics)
-- Excel & VBA scripting
-- Web scraping and API integration
+- **Python Automation** (data processing, Selenium, Tkinter GUIs)
+- **Excel & VBA** (automation, ribbon integration, workflows)
+- **Workflow & Catalog Management**
+- **Data Analysis & Reporting**
+- **Testing & QA** (manual + automated)
+- **Web Scraping & API Integration**
+- **Unreal Engine** (C++ basics, Blueprints, gameplay logic)
+
+---
 
 ## Certifications
 
 - **Introduction to Game Design** – Epic Games (Coursera)
 
+---
+
 ## Projects
 
-### Excel Combiner
+### 📌 Excel Combiner
+A Python GUI tool to batch-combine Excel files using a predefined template.
 
-A Python GUI tool to batch-combine Excel files based on a template.  
-- **Tkinter** interface; **pandas** for fast data processing  
-- Handles hundreds of files, preserves column consistency  
-- Progress bar, error logging, and overwrite protection  
-- Designed for non-technical users
+- Tkinter interface, pandas for fast processing  
+- Handles large batches with consistent column mapping  
+- Includes progress bar, error logging, overwrite protection  
 
 **Impact:**  
-Saved over **40 hours/month** in manual work for data combination and correction.
+Saved **40+ hours/month** of manual data merging.
 
 ---
 
-### Variation Seeker
+### 📌 Variation Seeker
+Automation tool for catalog variation analysis.
 
-Python automation for catalog variation analysis at Amazon.
-- **Selenium** + **BeautifulSoup** for web data retrieval
-- Supports 25+ marketplaces and batch ASIN processing
-- Parallel requests for speed, auto session recovery, robust error handling
-- Combines multiple internal sources into a single Excel output
+- Selenium + BeautifulSoup for structured data retrieval  
+- Supports 25+ marketplaces  
+- Robust batching, session recovery, and parallel execution  
+- Consolidates multiple data sources into one Excel output  
 
 **Impact:**  
-Automated catalog refreshes, boosted accuracy, and saved significant manual effort.
+Improved accuracy and reduced manual catalog review workload.
 
 ---
 
-### Excel+Python Scraper
+### 📌 Excel + Python Scraper
+Integrated Excel–Python automation workflow.
 
-Excel VBA module launching a Python scraper for catalog analysis:
-- Select ASINs/marketplace/attribute in Excel, run with a button
-- Python generates raw and filtered CSVs, VBA reloads results into sheets
-- Custom Ribbon UI, error checks, and supports large input ranges
+- Excel Ribbon UI with ASIN + marketplace selector  
+- VBA module triggers Python scraper  
+- Python outputs CSVs → VBA imports results automatically  
+- Full multi-market support, error handling, and logging  
 
 **Impact:**  
-End-to-end Excel workflow, multi-market support, zero manual file handling.
+End-to-end automation inside Excel with **zero manual file handling**.
 
 ---
 
@@ -89,5 +94,4 @@ End-to-end Excel workflow, multi-market support, zero manual file handling.
 
 ---
 
-_Always learning, always improving._  
-Feel free to reach out or check out my repos below!
+_Always learning. Always improving. Feel free to explore my repositories or reach out!_
