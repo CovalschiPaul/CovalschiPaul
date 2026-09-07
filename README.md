@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 🏢 **Catalog Associate at Amazon**  
+- 🏢 **Data Analyst at Amazon**  
   I work with Amazon’s catalog and internal systems, improving data accuracy through validation, automation, and scalable workflows.
 
 - 🐍 **Python Automation Developer**  
