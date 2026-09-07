@@ -23,10 +23,9 @@ Welcome to my GitHub profile!
   I build Python tools for automation, data processing, and workflow optimization. I focus on turning repetitive processes into fast, reliable, user-friendly applications.
 
 - 🎮 **Aspiring Game Developer**  
-  I enjoy experimenting with Unreal Engine (Blueprints & C++) and am working on my own game project inspired by interactive narrative design.
-
+  I enjoy experimenting with Unreal Engine (Blueprints & C++) and I'm working on my own game project.
 - 🌱 **Continuous Learner**  
-  I consistently expand my knowledge across automation, analytics, QA, and game development.
+  I consistently expand my knowledge across automation, analytics, QA and game development.
 
 ---
 
@@ -44,8 +43,8 @@ Welcome to my GitHub profile!
 
 ## Certifications
 
-- **Introduction to Game Design** – Epic Games (Coursera)
-
+- **Introduction to Game Design** – Epic Games via Coursera
+- **Introduction to DevOps** — IBM via Coursera
 ---
 
 ## Projects
