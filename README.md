@@ -1,6 +1,6 @@
 # Paul-Andrei Covalschi
 
-I work in catalog operations and build practical tools for data validation, reconciliation and repetitive workflows. My main interests are Python automation, SQL analytics, Excel and usable interfaces.
+I build practical tools for data validation, reconciliation and repetitive workflows. My main interests are Python automation, SQL analytics, Excel and usable interfaces.
 
 ## Selected projects
 
