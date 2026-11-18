@@ -1,96 +1,31 @@
-# 👋 Hi, I'm Paul Covalschi
+# Paul-Andrei Covalschi
 
-Welcome to my GitHub profile!
+I work in catalog operations and build practical tools for data validation, reconciliation and repetitive workflows. My main interests are Python automation, SQL analytics, Excel and usable interfaces.
 
-## 📑 Table of Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Certifications](#certifications)
-- [Projects](#projects)
-  - [Excel Combiner](#excel-combiner)
-  - [Variation Seeker](#variation-seeker)
-  - [Excel+Python Scraper](#excelpython-scraper)
-- [Connect](#connect)
+## Selected projects
 
----
+| Project | What you can inspect or try | Current scope |
+|---|---|---|
+| [Catalog Quality Analytics](https://github.com/CovalschiPaul/Catalog-Quality-Analytics) | Reproducible synthetic data, nine SQL analyses, historical backlog and validation tests | Working SQLite analysis; Power BI report and PostgreSQL validation pending |
+| [Catalog Clinic](https://github.com/CovalschiPaul/Catalog-Clinic) · [Live app](https://catalog-clinic-paul-covalschi.kowalskipaulandrei.chatgpt.site/) | Browser-local CSV checks, sample data, cleanup preview and exports | No account or server-side file processing |
+| [Variation Seeker Portfolio](https://github.com/CovalschiPaul/Variation-Seeker-Portfolio) | Offline reconciliation of parent/child relationships into an auditable workbook | Synthetic samples; separate from the private live collector |
+| [ShiftWheel](https://github.com/CovalschiPaul/ShiftWheel) | Windows tray app for local conversions through a radial menu | Installer preview; Windows acceptance testing remains |
+| [Excel Combiner](https://github.com/CovalschiPaul/Excel-Combiner) | Validated XLSX merging with a desktop window and CLI | First-sheet values; explicit header validation and error reporting |
+| [FORMA Design Lab](https://github.com/CovalschiPaul/forma-design-lab) | Three interactive UX concepts and their design rationale | Self-initiated prototypes; no claimed client or user-study results |
 
-## About Me
+## Skills and interests
 
-- 🏢 **Data Analyst at Amazon**  
-  I work with Amazon’s catalog and internal systems, improving data accuracy through validation, automation, and scalable workflows.
+- Python, Excel and VBA for data processing and workflow automation.
+- SQL analysis, data-quality checks and clear operational reporting.
+- Automated regression tests and practical QA.
+- Web interface and UX prototyping.
+- Unreal Engine and game-development experiments.
 
-- 🐍 **Python Automation Developer**  
-  I build Python tools for automation, data processing, and workflow optimization. I focus on turning repetitive processes into fast, reliable, user-friendly applications.
+My projects document their limitations and distinguish synthetic demonstrations from production use. The private Variation Seeker collector uses sequential browser requests; the public portfolio version runs fully offline. I do not publish employer data or authentication details.
 
-- 🎮 **Aspiring Game Developer**  
-  I enjoy experimenting with Unreal Engine (Blueprints & C++) and I'm working on my own game project.
-- 🌱 **Continuous Learner**  
-  I consistently expand my knowledge across automation, analytics, QA and game development.
+## Learning
 
----
+- Introduction to Game Design — Epic Games / Coursera
+- Introduction to DevOps — IBM / Coursera
 
-## Skills
-
-- **Python Automation** (data processing, Selenium, Tkinter GUIs)
-- **Excel & VBA** (automation, ribbon integration, workflows)
-- **Workflow & Catalog Management**
-- **Data Analysis & Reporting**
-- **Testing & QA** (manual + automated)
-- **Web Scraping & API Integration**
-- **Unreal Engine** (C++ basics, Blueprints, gameplay logic)
-
----
-
-## Certifications
-
-- **Introduction to Game Design** – Epic Games via Coursera
-- **Introduction to DevOps** — IBM via Coursera
----
-
-## Projects
-
-### 📌 Excel Combiner
-A Python GUI tool to batch-combine Excel files using a predefined template.
-
-- Tkinter interface, pandas for fast processing  
-- Handles large batches with consistent column mapping  
-- Includes progress bar, error logging, overwrite protection  
-
-**Impact:**  
-Saved **40+ hours/month** of manual data merging.
-
----
-
-### 📌 Variation Seeker
-Automation tool for catalog variation analysis.
-
-- Selenium + BeautifulSoup for structured data retrieval  
-- Supports 25+ marketplaces  
-- Robust batching, session recovery, and parallel execution  
-- Consolidates multiple data sources into one Excel output  
-
-**Impact:**  
-Improved accuracy and reduced manual catalog review workload.
-
----
-
-### 📌 Excel + Python Scraper
-Integrated Excel–Python automation workflow.
-
-- Excel Ribbon UI with ASIN + marketplace selector  
-- VBA module triggers Python scraper  
-- Python outputs CSVs → VBA imports results automatically  
-- Full multi-market support, error handling, and logging  
-
-**Impact:**  
-End-to-end automation inside Excel with **zero manual file handling**.
-
----
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/paul-andrei-covalschi-72b41a148/)
-
----
-
-_Always learning. Always improving. Feel free to explore my repositories or reach out!_
+[Connect on LinkedIn](https://www.linkedin.com/in/paul-andrei-covalschi-72b41a148/)
